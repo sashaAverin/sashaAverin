@@ -19,9 +19,9 @@
 |:-----------------------:|:---------------------:|:--------------------:|:------------------------:|
 | ![](Icons/YouTrack.svg) | ![](Icons/VSCode.svg) | ![](Icons/Figma.svg) | ![](Icons/Photoshop.svg) |
 
-|        GitHub         |    Chrome DevTools     |        HTML5        |        CSS3        |
-|:---------------------:|:----------------------:|:-------------------:|:------------------:|
-| ![](Icons/GitHub.svg) | ![](Icons/Chrome.svg)  | ![](Icons/Html.svg) | ![](Icons/Css.svg) |
+|        GitHub         |    Chrome DevTools    |        HTML5        |        CSS3        |
+|:---------------------:|:---------------------:|:-------------------:|:------------------:|
+| ![](Icons/GitHub.svg) | ![](Icons/Chrome.svg) | ![](Icons/Html.svg) | ![](Icons/Css.svg) |
 
 |        Postman         |        Swagger         |        MySQL         |
 |:----------------------:|:----------------------:|:--------------------:|
@@ -32,8 +32,7 @@
 | ![](Icons/Python.svg) | ![](Icons/Docker.svg) | ![](Icons/TestOps.svg) | ![](Icons/GitLab.svg) |
 
 ## You can find me on
-[![](Icons/Telegram.svg)](https://t.me/avrn_sasha) [![](Icons/LinkedIn.svg)](https://www.linkedin.com/in/sasha-averin/)
-[![](Icons/Behance.svg)](https://www.behance.net/aleksandraverin)
+[![](Icons/Telegram.svg)](https://t.me/avrn_sasha) [![](Icons/LinkedIn.svg)](https://www.linkedin.com/in/sasha-averin/) [![](Icons/Behance.svg)](https://www.behance.net/aleksandraverin)
 ## Statistics
 <a target="_blank" href="https://github.com/sashaAverin?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sashaAverin&show_icons=true&theme=dracula&hide_border=true&border_radius=10&custom_title=My+statistics&bg_color=DEG,8CCAC5,6972B5&icon_color=ffffff&title_color=ffffff"/>
