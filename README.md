@@ -1,10 +1,10 @@
 # <p align=center>Hi everyone and welcome there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"><br>I'm Aleksandr</p>
-## <p align=center>I'm Junior QA Engineer</p>
+### <p align=center>I'm Junior QA Engineer</p>
 :trophy: I completed testing course successfully <br>
 :rocket: I improve my skills every day <br>
 :dog: I practice on pet-projects <br>
 :mag: I'm looking for my first job
-### My pet-projects
+## My pet-projects
 |   Project name    |                                              Github link                                              |
 |:-----------------:|:-----------------------------------------------------------------------------------------------------:|
 | H&M online store  |                                                 soon                                                  |
@@ -35,5 +35,9 @@
 [![](Icons/Telegram.svg)](https://t.me/avrn_sasha) [![](Icons/LinkedIn.svg)](https://www.linkedin.com/in/sasha-averin/)
 [![](Icons/Behance.svg)](https://www.behance.net/aleksandraverin)
 ## Statistics
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sashaAverin&show_icons=true&theme=dracula&hide_border=true&border_radius=10&custom_title=My+statistics&bg_color=DEG,8CCAC5,6972B5&icon_color=ffffff&title_color=ffffff" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashaAverin&layout=donut&show_icons=true&theme=dracula&hide_border=true&border_radius=10&bg_color=DEG,6972B5,8CCAC5&icon_color=ffffff&title_color=ffffff" />
+<a target="_blank" href="https://github.com/sashaAverin?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sashaAverin&show_icons=true&theme=dracula&hide_border=true&border_radius=10&custom_title=My+statistics&bg_color=DEG,8CCAC5,6972B5&icon_color=ffffff&title_color=ffffff"/>
+</a>
+<a target="_blank" href="https://github.com/sashaAverin?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashaAverin&layout=donut&show_icons=true&theme=dracula&hide_border=true&border_radius=10&bg_color=DEG,6972B5,8CCAC5&icon_color=ffffff&title_color=ffffff"/>
+</a>
