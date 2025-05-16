@@ -11,25 +11,98 @@
 |     OrangeHRM     |                         [UI tests](https://github.com/sashaAverin/orange-hrm)                         |
 | Book online store |                     [UI tests](https://github.com/sashaAverin/book-store-testing)                     |
 ## Some tools I have used and learned
-|        PyCharm         |        Selenium         |        Pytest         |     Allure Report     |        Git         |
-|:----------------------:|:-----------------------:|:---------------------:|:---------------------:|:------------------:|
-| ![](Icons/PyCharm.svg) | ![](Icons/Selenium.svg) | ![](Icons/Pytest.svg) | ![](Icons/Allure.svg) | ![](Icons/Git.svg) |
+<table style="white-space: nowrap;">
+    <thead>
+        <tr>
+            <th>PyCharm</th>
+            <th>Selenium</th>
+            <th>Pytest</th>
+            <th>Allure Report</th>
+            <th>Git</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td style="min-width:80px;"><img src="Icons/PyCharm.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Selenium.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Pytest.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Allure.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Git.svg"></td>
+        </tr>
+    </tbody>
+</table>
+<table style="white-space: nowrap;">
+    <thead>
+        <tr>
+            <th>YouTrack</th>
+            <th>VS Code</th>
+            <th>Figma</th>
+            <th>Adobe Photoshop</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td style="min-width:80px;"><img src="Icons/YouTrack.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/VSCode.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Figma.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Photoshop.svg"></td>
+        </tr>
+    </tbody>
+</table>
+<table style="white-space: nowrap;">
+    <thead>
+        <tr>
+            <th>GitHub</th>
+            <th>Chrome DevTools</th>
+            <th>HTML5</th>
+            <th>CSS3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td style="min-width:80px;"><img src="Icons/GitHub.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Chrome.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Html.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Css.svg"></td>
+        </tr>
+    </tbody>
+</table>
+<table style="white-space: nowrap;">
+    <thead>
+        <tr>
+            <th>Postman</th>
+            <th>Swagger</th>
+            <th>MySQL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td style="min-width:80px;"><img src="Icons/Postman.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Swagger.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/MySQL.svg"></td>
+        </tr>
+    </tbody>
+</table>
 
-|        YoyTrack         |        VS code        |        Figma         |     Adobe Photoshop      |
-|:-----------------------:|:---------------------:|:--------------------:|:------------------------:|
-| ![](Icons/YouTrack.svg) | ![](Icons/VSCode.svg) | ![](Icons/Figma.svg) | ![](Icons/Photoshop.svg) |
-
-|        GitHub         |    Chrome DevTools    |        HTML5        |        CSS3        |
-|:---------------------:|:---------------------:|:-------------------:|:------------------:|
-| ![](Icons/GitHub.svg) | ![](Icons/Chrome.svg) | ![](Icons/Html.svg) | ![](Icons/Css.svg) |
-
-|        Postman         |        Swagger         |        MySQL         |
-|:----------------------:|:----------------------:|:--------------------:|
-| ![](Icons/Postman.svg) | ![](Icons/Swagger.svg) | ![](Icons/MySQL.svg) |
 ## In process of learning
-|        Python         |        Docker         |     Allure TestOps     |     GitLab CI/CD      |
-|:---------------------:|:---------------------:|:----------------------:|:---------------------:|
-| ![](Icons/Python.svg) | ![](Icons/Docker.svg) | ![](Icons/TestOps.svg) | ![](Icons/GitLab.svg) |
+<table style="white-space: nowrap;">
+    <thead>
+        <tr>
+            <th>Python</th>
+            <th>Docker</th>
+            <th>Allure TestOps</th>
+            <th>GitLab CI/CD</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td style="min-width:80px;"><img src="Icons/Python.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/Docker.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/TestOps.svg"></td>
+            <td style="min-width:80px;"><img src="Icons/GitLab.svg"></td>
+        </tr>
+    </tbody>
+</table>
 
 ## You can find me on
 [![](Icons/Telegram.svg)](https://t.me/avrn_sasha) [![](Icons/LinkedIn.svg)](https://www.linkedin.com/in/sasha-averin/) [![](Icons/Behance.svg)](https://www.behance.net/aleksandraverin)
