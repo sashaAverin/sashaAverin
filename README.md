@@ -7,7 +7,7 @@
 ## My pet-projects
 |   Project name    |                                              Github link                                              |
 |:-----------------:|:-----------------------------------------------------------------------------------------------------:|
-| H&M online store  |                                                 soon                                                  |
+|      Boohoo       |                                                 soon                                                  |
 |     OrangeHRM     |                         [UI tests](https://github.com/sashaAverin/orange-hrm)                         |
 | Book online store |                     [UI tests](https://github.com/sashaAverin/book-store-testing)                     |
 ## Some tools I have used and learned
